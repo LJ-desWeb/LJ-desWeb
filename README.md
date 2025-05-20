@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Luis J. Borge>! </h1>  <!-- <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> -->
+<h1 align="center">Hi 👋, I'm Luis J. Borge>! </h1>  
 </div>
 <div align="center" width="50">
 <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
