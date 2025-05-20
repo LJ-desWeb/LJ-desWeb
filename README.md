@@ -1,17 +1,13 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h1 align="center">Hi 👋, I'm Luis J. Borge>! </h1>  <!-- <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> -->
 </div>
-
 <div align="center" width="50">
-
 <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
-</div>## Hi there 👋
-
-<!--
-**LJ-desWeb/LJ-desWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+</div>
+<hr/>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer+Student;Electronic+Developer;Fiber%20Technician;Always%20learning%20new%20things&center=true&width=500&height=50"></a> <!--DS%20|%20Always%20|%20learning%20new+skills -->
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
